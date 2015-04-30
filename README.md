@@ -93,3 +93,22 @@ We provide here several published papers only for personal usage. If you use the
   Pages                    = {351--362},
   Volume                   = {26}
 }
+
+@Article{Huang2014JMS,
+  Title                    = {Time dependent intrinsic correlation analysis of temperature and dissolved oxygen time series using empirical mode decompositions},
+  Author                   = {Huang, Y.X. and Schmitt, F. G.},
+  Journal                  = {J. Mar. Sys.},
+  Year                     = {2014},
+  Pages                    = {90-100},
+  Volume                   = {130}
+}
+
+@Article{Huang2014TSC,
+  Title                    = {Two-scale correlation and energy cascade in three-dimensional turbulent flows},
+  Author                   = {Y X Huang and F G Schmitt and Y Gagne},
+  Journal                  = {J. Stat. Mech.},
+  Year                     = {2014},
+  Pages                    = {P05002},
+  Volume                   = {5}
+}
+
