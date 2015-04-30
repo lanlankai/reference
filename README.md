@@ -112,3 +112,9 @@ We provide here several published papers only for personal usage. If you use the
   Volume                   = {5}
 }
 
+@Book{Schmitt2016book,
+  Title                    = {Stochastic Analysis of Scaling Time Series: from turbulence theory to applications},
+  Author                   = {Fran\c{c}ois G. Schmitt and Yongxiang Huang},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2016 (in press)}
+}
