@@ -118,3 +118,12 @@ We provide here several published papers only for personal usage. If you use the
   Publisher                = {Cambridge University Press},
   Year                     = {2016 (in press)}
 }
+
+@Article{Wang2015JSTAT,
+  Title                    = {Multi-level segment analysis: definition and application in turbulent systems},
+  Author                   = {L.P. Wang and Y.X. Huang},
+  Journal                  = {J. Stat. Mech. Theor. Exp.},
+  Year                     = {2015},
+  Pages                    = {P06018}
+}
+
