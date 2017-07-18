@@ -116,7 +116,7 @@ We provide here several published papers only for personal usage. If you use the
   Title                    = {Stochastic Analysis of Scaling Time Series: from turbulence theory to applications},
   Author                   = {Fran\c{c}ois G. Schmitt and Yongxiang Huang},
   Publisher                = {Cambridge University Press},
-  Year                     = {2016 (in press)}
+  Year                     = {2016}
 }
 
 @Article{Wang2015JSTAT,
@@ -127,3 +127,49 @@ We provide here several published papers only for personal usage. If you use the
   Pages                    = {P06018}
 }
 
+@Article{Huang2017PoF,
+  author  = {Huang, Y.X. and Ou W.Y. and Chen M. and Lu Z.M. and Jiang N. and Liu Y.L. and Qiu X. and Zhou Q.},
+  title   = {{Taylor dispersion in two-dimensional bacterial turbulence}},
+  journal = {Phys. Fluids},
+  year    = {2017},
+  volume  = {29},
+  pages   = {051901},
+}
+
+@Article{Gao2016AE,
+  Title                    = {Spatial statistics of atmospheric particulate matter in China},
+  Author                   = {Gao, S.H. and Wang, Y.J. and Huang, Y.X. and Zhou, Q. and Lu, Z.M and Shi, X. and Liu, Y.L.},
+  Journal                  = {Atmospheric Environment},
+  Year                     = {2016},
+  Pages                    = {162-167},
+  Volume                   = {134}
+}
+
+@Article{Qiu2016PRE,
+  author        = {Qiu, X. and Ding, L. and Huang, Y.X. and Chen, M. and Lu, Z.M. and Liu, Y.L. and Zhou, Q.},
+  title         = {Intermittency measurement in two-dimensional bacterial turbulence},
+  journal       = {Phys. Rev. E},
+  year          = {2016},
+  volume        = {93},
+  pages         = {062226},
+}
+
+@Article{Wang2017PRE,
+  author        = {Wang L.P. and Huang, Y.X.},
+  title         = {Intrinsic flow structure and multifractality in two-dimensional bacterial turbulence},
+  journal       = {Phys. Rev. E},
+  year          = {2017},
+  volume        = {95},
+  pages         = {052215},
+}
+
+
+
+@Article{Huang2017PREEPD,
+  Title                    = {{Extremal-Point Density of Scaling Processes: From Fractal Brownian Motion to Turbulence}},
+  Author                   = {Huang, Y.X. and Wang, L.P. and Schmitt, F.G. and Zheng, X.B. and Jiang N. and  Liu, Y.L.},
+  Journal                  = {Phys. Rev. E},
+  Year                     = {2017},
+  Pages                    = {012215},
+  Volume                   = {96}
+}
